@@ -1,0 +1,27 @@
+body {
+    background-color:#466362;
+    font-family: 'Source Code Pro', monospace;
+    color:#011627;
+    padding-left: 12px;
+    padding-bottom: 12px;
+}
+
+#box {
+    background-color: #9BBEC6;
+    padding: 10px;
+    margin-top: 70px;
+    margin-left: 25%;
+    margin-right: 25%;
+    
+}
+h3 {
+    text-align: center;
+}
+
+.text {
+    text-align: justify;
+    text-indent: 25px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
